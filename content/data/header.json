@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Portfolio",
-            "url": "/pricing",
+            "url": "/portfolio",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
