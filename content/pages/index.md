@@ -8,10 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Full-Service Media
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      From Photography to Audio/DJ, we offer Kauai with everything in between
     actions:
       - label: Get started
         altText: ''
