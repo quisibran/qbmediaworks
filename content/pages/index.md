@@ -7,7 +7,7 @@ sections:
       text: QB Productions
       color: text-dark
       type: TitleBlock
-    subtitle: Full-Service Media
+    subtitle: Photo | Audio | Video
     text: |
       From Photography to Audio/DJ, we offer Kauai with everything in between
     actions:
