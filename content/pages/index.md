@@ -144,7 +144,7 @@ sections:
       type: TitleBlock
     subtitle: What we do
     items:
-      - title: Feature Item One
+      - title: Photography
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
