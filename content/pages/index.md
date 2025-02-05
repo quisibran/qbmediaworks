@@ -192,7 +192,7 @@ sections:
         type: FeaturedItem
       - title: Videography
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: From recording to editing and everything in between
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
