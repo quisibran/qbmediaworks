@@ -33,7 +33,7 @@ sections:
           - pr-16
   - type: GenericSection
     title:
-      text: Latest Project
+      text: My Projects
       color: text-dark
       styles:
         self:
