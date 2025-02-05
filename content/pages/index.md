@@ -147,8 +147,9 @@ sections:
       - title: Photography
         tagline: This is the tagline
         subtitle: From photoshoot to touchup and everything in between
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We'll organize a photoshoot and provide you with full access to entire
+          photoshoot library
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
