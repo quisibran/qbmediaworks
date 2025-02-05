@@ -1,7 +1,8 @@
 {
     "logo": {
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/IMG_0029.PNG"
     },
     "text": "Providing Kauai with all media needs!\n",
     "primaryLinks": {
