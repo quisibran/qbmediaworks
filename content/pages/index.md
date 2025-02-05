@@ -33,7 +33,7 @@ sections:
           - pr-16
   - type: GenericSection
     title:
-      text: Best of 2024
+      text: Latest Project
       color: text-dark
       styles:
         self:
