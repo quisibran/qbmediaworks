@@ -104,6 +104,6 @@
         }
     ],
     "copyrightText": "Copyright 2025 QB Productions | Powered by [Netlify](https://www.netlify.com/)\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
