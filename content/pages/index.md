@@ -146,7 +146,7 @@ sections:
     items:
       - title: Photography
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: From photoshoot to touchup and everything in between
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
