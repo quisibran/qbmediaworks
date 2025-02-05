@@ -169,7 +169,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Audio & DJ
-        tagline: This is the tagline
+        tagline: Can you hear me?
         subtitle: PA system & DJ Service
         text: >
           We carry a robust PA system for all uses. We will also DJ for any
