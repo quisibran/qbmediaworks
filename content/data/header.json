@@ -15,7 +15,7 @@
     "secondaryLinks": [
         {
             "label": "Contact Us",
-            "altText": "Sign up",
+            "altText": "Email",
             "url": "https://mailto:info@qbmediaworks.com",
             "icon": "arrowRight",
             "iconPosition": "right",
