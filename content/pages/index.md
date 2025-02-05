@@ -193,7 +193,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Videography
-        tagline: This is the tagline
+        tagline: ''
         subtitle: From recording to editing and everything in between
         text: >
           After conversation with you, our customer, we will devise a plan to
