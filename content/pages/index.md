@@ -169,7 +169,7 @@ sections:
         type: FeaturedItem
       - title: Audio & DJ
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: PA system & DJ Service
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
