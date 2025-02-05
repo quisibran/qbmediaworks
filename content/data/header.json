@@ -11,17 +11,7 @@
         "type": "ImageBlock",
         "url": "/images/Untitled.svg"
     },
-    "primaryLinks": [
-        {
-            "label": "Contact",
-            "altText": "Blog",
-            "url": "/contactus",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Sign up",
