@@ -171,8 +171,9 @@ sections:
       - title: Audio & DJ
         tagline: This is the tagline
         subtitle: PA system & DJ Service
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          We carry a robust PA system for all uses. We will also DJ for any
+          event. Contact us for more info!
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
