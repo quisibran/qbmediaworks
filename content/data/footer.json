@@ -1,7 +1,8 @@
 {
     "logo": {
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/IMG_0029.PNG"
     },
     "text": "Providing Kauai with all media needs!\n",
     "primaryLinks": {
@@ -102,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Copyright 2025 QB Productions | Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
