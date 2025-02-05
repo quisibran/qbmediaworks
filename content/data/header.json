@@ -30,15 +30,6 @@
             "type": "Link"
         },
         {
-            "label": "About Us",
-            "altText": "About",
-            "url": "/aboutus",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "What We Offer",
             "altText": "Dropdown",
             "links": [
