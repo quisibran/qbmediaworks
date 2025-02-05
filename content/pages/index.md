@@ -39,7 +39,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Coming soon
+    subtitle: My Latest Project
     text: |+
       2024 Year in Review coming soon.
 
