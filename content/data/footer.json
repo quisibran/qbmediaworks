@@ -14,7 +14,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:info@qbmediaworks.com",
             "icon": "mail",
             "type": "Social"
         }
