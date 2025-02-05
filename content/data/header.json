@@ -11,83 +11,17 @@
         "type": "ImageBlock",
         "url": "/images/Untitled.svg"
     },
-    "primaryLinks": [
-        {
-            "label": "Portfolio",
-            "url": "/portfolio",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Contact",
-            "altText": "Blog",
-            "url": "/contactus",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "About Us",
-            "altText": "About",
-            "url": "/aboutus",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "What We Offer",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Music & DJ",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Photography",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Videography",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "Contact Us",
+            "altText": "Email",
+            "url": "https://mailto:info@qbmediaworks.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": false
         }
     ],
     "variant": "logo-left-primary-nav-centered",
