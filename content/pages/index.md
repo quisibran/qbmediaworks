@@ -44,7 +44,7 @@ sections:
       More projects can be found @qbflicks on YouTube
     actions: []
     media:
-      title: Title of the video
+      title: ISV BB Senior Night
       url: 'https://youtu.be/AbGe8eYFyME'
       autoplay: true
       loop: true
