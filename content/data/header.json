@@ -23,7 +23,7 @@
         {
             "label": "Contact",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/contactus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
