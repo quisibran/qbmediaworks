@@ -165,7 +165,7 @@ sections:
 slug: /portfolio
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: Portfolio | QB Productions
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
