@@ -40,9 +40,8 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: My Latest Project
-    text: |+
-      2024 Year in Review coming soon.
-
+    text: |
+      More projects can be found @qbflicks on YouTube
     actions: []
     media:
       title: Title of the video
