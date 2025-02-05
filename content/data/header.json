@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Portfolio",
-            "url": "/portfolio",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Contact",
             "altText": "Blog",
             "url": "/contactus",
