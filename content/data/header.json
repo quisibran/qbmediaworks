@@ -24,7 +24,7 @@
             "showIcon": false
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-dark-fg-light",
+    "variant": "logo-centered-primary-nav-left",
+    "colors": "bg-neutral-fg-dark",
     "type": "Header"
 }

@@ -33,20 +33,19 @@ sections:
           - pr-16
   - type: GenericSection
     title:
-      text: Best of 2024
+      text: My Projects
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Coming soon
-    text: |+
-      2024 Year in Review coming soon.
-
+    subtitle: My Latest Project
+    text: |
+      More projects can be found @qbflicks on YouTube
     actions: []
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: ISV BB Senior Night
+      url: 'https://youtu.be/AbGe8eYFyME'
       autoplay: true
       loop: true
       muted: true
