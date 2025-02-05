@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: aboutus
+slug: /aboutus
 seo:
   type: Seo
   metaTitle: Careers - Demo site
