@@ -196,8 +196,9 @@ sections:
         tagline: This is the tagline
         subtitle: From recording to editing and everything in between
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          After conversation with you, our customer, we will devise a plan to
+          effectively bring your ideas to life through videography. From
+          weddings to sports videos, we can make it happen!
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
