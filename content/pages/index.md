@@ -145,7 +145,7 @@ sections:
     subtitle: What we do
     items:
       - title: Photography
-        tagline: Anyt
+        tagline: ''
         subtitle: From photoshoot to touchup and everything in between
         text: >
           We'll organize a photoshoot and provide you with full access to entire
